@@ -1,0 +1,17 @@
+{
+  "Mike": {
+    "permissions": "user",
+    "nickname": "apple",
+    "password": "123456"
+  },
+  "folk.skill": {
+    "permissions": "admin",
+    "nickname": "folk.skill",
+    "password": "ttyY1231"
+  },
+  "folk": {
+    "permissions": "user",
+    "nickname": "folk",
+    "password": "123456"
+  }
+}
